@@ -1,4 +1,4 @@
-# Create an 18F-branded microsite by forking this site.
+# Sandbox for Accessibility Hackathon website. 
 
 Basic instructions:
 * Fork this site.

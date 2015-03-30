@@ -40,9 +40,6 @@ Join or post your projects <a href="https://github.com/18F/hackathons/wiki/">her
 
 Bring your laptop, government-issued ID (to get in to the government building), and creative energy! If you work for the government and have a PIV card, you can get right in by just showing the guard your badge. (Skip the line!)
 
-### Code of Conduct
-
-[Code of Conduct](/a11yhack/codeofconduct): Please check out our draft code of conduct.
 
 ### Follow us here:
 

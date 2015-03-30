@@ -21,7 +21,7 @@ This Accessibility Hackathon will feature experts discussing this work, networki
 
 ### Key Links
 
-[Hackathon Schedule](/hackathons/hackathons/a11yhack/schedule): Find the day's agenda.
+[Hackathon Schedule](/hackathons/a11yhack/schedule): Find the day's agenda.
 
 [Resources](/hackathons/a11yhack/resources): Accessibility Resources.
 

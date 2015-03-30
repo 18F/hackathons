@@ -43,7 +43,7 @@ page_title: Schedule
 
 ### 11:00 - 12:00 – Brainstorming Sessions
 
-### 12:00 - 1:00 – Lunch on your own
+### 12:00 - 1:00 – Lunch (not provided)
 
 ### 1:00 - 4:15 – Hacking! & Breakout sessions
 

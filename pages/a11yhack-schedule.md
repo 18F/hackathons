@@ -17,7 +17,7 @@ page_title: Schedule
 
 * Sue Swenson, Acting Assistant Secretary for Special Education and Rehabilitative Services, US Department of Education, "Who Owns the Records of Americans with Disabilities" [VIDEO]
 
-* Gregg Venderheiden, Gregg Vanderheiden Ph.D., Director Trace R&D Center, Professor Industrial & Systems Engineering and Biomedical Engineering University of Wisconsin-Madison, Co-Director, Raising the Floor International  and the Global Public Inclusive Infrastructure Project, "Using the cloud to allow everyone (not just programmers) to create solutions for people with disabilities" [Demo]
+* Gregg Vanderheiden, Ph.D., Director Trace R&D Center, Professor Industrial & Systems Engineering and Biomedical Engineering University of Wisconsin-Madison, Co-Director, Raising the Floor International  and the Global Public Inclusive Infrastructure Project, "Using the cloud to allow everyone (not just programmers) to create solutions for people with disabilities" [Demo]
 
 * Erin Buhler, Ph.D. Student, Information Systems, UMBC and Aqueasha Martin, Postdoctoral Research Associate, Information Systems, UMBC, "Accessible Technology Research at UMBC"  [Demo]
 
@@ -83,7 +83,7 @@ Director, Technology Access Program, Gallaudet University
  * Demo 1: Total Conversation: Mixing and matching media according to your needs. Description: The ability to select among and mix audio, video, and real-time text is crucial to meet the wide-ranging needs of people with disabilities in next-generation telecommunications; especially emergency communications. This demo will showcase the potential of next-generation telecommunications, building on already approved international technical standards.
  * Demo 2: Real-time text in the text messaging world Description: Turn-taking in text conversations is not always the most efficient, or accessible. The alternative is real-time text, where you can see what the other party types in real time. The demo shows seamless integration of this technology into the Google Talk environment, within familiar user interfaces.
 
-**2:30-2:55 - Demos by Gregg Vanderheiden Ph.D.**
+**2:30-2:55 - Demos by Gregg Vanderheiden, Ph.D.**
 Director Trace R&D Center, Professor Industrial & Systems Engineering and Biomedical Engineering University of Wisconsin-Madison, Co-Director, [Raising the Floor - International](http://Raisingthefloor.org) and the [Global Public Inclusive Infrastructure Project](http://GPII.net)
 
  * Demo1: Captions that correct themselves as you watch them - CCC provides a means for anyone in the audience or on the phone to correct errors they see in the captions. It is no longer necessary to see errors and not be able to do something about it — or to view captions that are not what the person is saying.

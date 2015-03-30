@@ -7,15 +7,13 @@ description: 'The schedule for the Accessibility Hackaton #a11yhack @ 18f'
 page_title: Schedule
 ---
 
-### 9:00 - 9:15 – Welcome
+### 9:00 - 9:10 – Welcome & Intro of events
 
 * John Tschida, Director at National Institute on Disability, Independent Living, and Rehabilitation Research, Administration for Community Living, US Department of Health and Human Services (~5 min)
 
-* Phaedra Chrousos, Chief Customer Officer & Associate Administrator, Office of Citizen Services and Innovative Technology, GSA (tentative) (~5 min)
+* Jameson Dempsey, DC Legal Hackers (MC) (~3 min)
 
-* Intro of events: Jameson Dempsey, DC Legal Hackers (MC) (~3 min)
-
-### 9:15 - 10:00 – Lightning Talks
+### 9:10 - 10:00 – Lightning Talks
 
 * Sue Swenson, Acting Assistant Secretary for Special Education and Rehabilitative Services, US Department of Education, "Who Owns the Records of Americans with Disabilities" [VIDEO]
 
@@ -40,6 +38,8 @@ page_title: Schedule
 ### 10:15 - 10:30 - (Break)
 
 ### 10:30 - 11:00 – Problem Statements
+
+* Kicked by off: Phaedra Chrousos, Chief Customer Officer & Associate Administrator, Office of Citizen Services and Innovative Technology, GSA (~5 min)
 
 ### 11:00 - 12:00 – Brainstorming Sessions
 

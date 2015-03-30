@@ -8,7 +8,7 @@ description: 'General information about the Accessibility Hackaton #a11yhack @ 1
 page_title: a11yhack
 ---
 
-The [White House Office of Science and Technology Policy](https://www.whitehouse.gov/administration/eop/ostp), [18F](https://18f.gsa.gov/), the [Department of Education](http://www.ed.gov/), and [DC Legal Hackers](http://dclegalhackers.org/) invite you to an Accessibility Hackathon on March 31, 2015.
+The [White House Office of Science and Technology Policy](https://www.whitehouse.gov/administration/eop/ostp), [18F](https://18f.gsa.gov/), the [National Institute on Disability, Independent Living, and Rehabilitation Research](http://www2.ed.gov/about/offices/list/osers/nidrr/index.html), and [DC Legal Hackers](http://dclegalhackers.org/) invite you to an Accessibility Hackathon on March 31, 2015.
 
 Federal websites are, by law, designed to be accessible to everyone – individuals who are visually impaired, hearing impaired, or have mobility issues – and we want you to help us develop shareable solutions to some digital accessibility problems facing Government and users today.
 

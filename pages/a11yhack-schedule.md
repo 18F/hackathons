@@ -45,6 +45,9 @@ page_title: Schedule
 
 ### 11:00 - 12:00 – Brainstorming Sessions
 
+* Introductions - everyone introduces themselves
+* Form groups and get started!
+
 ### 12:00 - 1:00 – Lunch (not provided)
 
 ### 1:00 - 4:15 – Hacking! & Breakout sessions

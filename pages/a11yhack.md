@@ -47,3 +47,7 @@ Bring your laptop, government-issued ID (to get in to the government building), 
 <i class="icon-twitter"></i> <a href="https://twitter.com/18f">Twitter @18F</a><br/><i class="icon-twitter"></i> <a href="https://twitter.com/DCLegalHackers">Twitter @DCLegalHackers</a><br/>
 <i class="icon-github2"></i> <a href="https://github.com/18f/hackathons/a11yhack">GitHub / 18F / hackathons / a11yhack</a><br/>
 <i class="icon-github2"></i> <a href="https://github.com/18f/accessibility">GitHub / 18F / accessibility</a>
+
+<script type="text/javascript">
+	setActivePageLink('#home-page');
+</script>

@@ -21,15 +21,15 @@ This Accessibility Hackathon will feature experts discussing this work, networki
 
 ### Key Links
 
-[Hackathon Schedule](/hackathons/a11yhack/schedule): Find the day's agenda.
+[Hackathon Schedule]({{site.baseurl}}/a11yhack/schedule): Find the day's agenda.
 
-[Resources](/hackathons/a11yhack/resources): Accessibility Resources.
+[Resources]({{site.baseurl}}/a11yhack/resources): Accessibility Resources.
 
-[Tools](/hackathons/a11yhack/tools): Accessibility Tools.
+[Tools]({{site.baseurl}}/a11yhack/tools): Accessibility Tools.
 
 [#a11yhack](https://twitter.com/search?q=%23a11yhack&amp;src=typd) is the hashtag.
 
-[Food](/hackathons/lunch): Here are some nearby places.
+[Food]({{site.baseurl}}/lunch): Here are some nearby places.
 
 ### Hackathon Projects:
 

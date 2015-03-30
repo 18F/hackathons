@@ -3,7 +3,7 @@ published: true
 redirect_from: "/"
 permalink: /a11yhack/
 layout: default
-title: Accessibility Hackaton #a11yhack
+title: 'Accessibility Hackathon - #a11yhack'
 description: 'General information about the Accessibility Hackaton #a11yhack @ 18f'
 page_title: a11yhack
 ---

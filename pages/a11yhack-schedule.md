@@ -106,7 +106,7 @@ Associate Professor, Computer and Information Sciences Department, Towson Univer
 * Demo 3. SoundsRight CAPTCHA Demo (shown in morning) also available to try.
 
 **3:30-4:05 pm (cont) - Erin Buhler**
-Ph.D. Student, Information Systems, UMBC & Aqueasha Martin, Postdoctoral Research Associate, Information Systems, UMBC
+Ph.D. Student, Information Systems, UMBC & **Aqueasha Martin**, Postdoctoral Research Associate, Information Systems, UMBC
 
 * Demo 1. GripFab: Creating accessible hand grips with 3D printing. We will demo software for the design of these grips and offer hackers a chance to test out our prototype grips. The National Science Foundation funds this research project.
 * Demo 2. Designing Adaptive User Interfaces for Accessible Pointing. We will demo software designs that notify users of changes when using a pointing device and that adapt based on those changes. The National Institute on Disability and Rehabilitation Research (NIDRR) funds this research project.

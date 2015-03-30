@@ -21,8 +21,6 @@ This Accessibility Hackathon will feature experts discussing this work, networki
 
 ### Key Links
 
-[About](/a11yhack/): Learn about the Accesibility Hackathon.
-
 [Hackathon Schedule](/a11yhack/schedule): Find the day's agenda.
 
 [Resources](/a11yhack/resources): Accessibility Resources.
@@ -31,7 +29,7 @@ This Accessibility Hackathon will feature experts discussing this work, networki
 
 [#a11yhack](https://twitter.com/search?q=%23a11yhack&amp;src=typd) is the hashtag.
 
-[Food](/a11yhack/lunch-nearby): Here are some nearby places.
+[Food](/food): Here are some nearby places.
 
 ### Hackathon Projects:
 
@@ -44,3 +42,9 @@ Bring your laptop, government-issued ID (to get in to the government building), 
 ### Code of Conduct
 
 [Code of Conduct](/a11yhack/codeofconduct): Please check out our draft code of conduct.
+
+### Follow us here:
+
+<i class="icon-twitter"></i> <a href="https://twitter.com/18f">Twitter @18F</a><br/><i class="icon-twitter"></i> <a href="https://twitter.com/DCLegalHackers">Twitter @DCLegalHackers</a><br/>
+<i class="icon-github2"></i> <a href="https://github.com/18f/hackathons/a11yhack">GitHub / 18F / hackathons / a11yhack</a><br/>
+<i class="icon-github2"></i> <a href="https://github.com/18f/accessibility">GitHub / 18F / accessibility</a>

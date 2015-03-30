@@ -23,7 +23,7 @@ page_title: Schedule
 
 * Erin Buhler, Ph.D. Student, Information Systems, UMBC and Aqueasha Martin, Postdoctoral Research Associate, Information Systems, UMBC, "Accessible Technology Research at UMBC"  [Demo]
 
-* Anne Taylor, Director of Access Technology, NFB - National Federation of the Blind
+* Anne Taylor, Director of Access Technology National Federation of the Blind Jernigan Institute
 
 * Christian Vogler, Director, Technology Access Program, Gallaudet University, "Video Access for the Deaf-Blind" [Demo] | [VIDEO](https://www.youtube.com/watch?v=08tyYAhPuVU)
 

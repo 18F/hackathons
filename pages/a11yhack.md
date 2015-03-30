@@ -1,5 +1,6 @@
 ---
 published: true
+redirect_from: "/"
 permalink: /a11yhack/
 layout: default
 title: Accessibility Hackaton #a11yhack

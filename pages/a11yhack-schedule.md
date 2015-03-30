@@ -46,7 +46,8 @@ page_title: Schedule
 ### 11:00 - 12:00 – Brainstorming Sessions
 
 * Introductions - everyone introduces themselves
-* Form groups and get started!
+* Form groups and get started.
+* Share your results!
 
 ### 12:00 - 1:00 – Lunch (not provided)
 
@@ -116,5 +117,5 @@ Ph.D. Student, Information Systems, UMBC & **Aqueasha Martin**, Postdoctoral Res
 * Demo 1. GripFab: Creating accessible hand grips with 3D printing. We will demo software for the design of these grips and offer hackers a chance to test out our prototype grips. The National Science Foundation funds this research project.
 * Demo 2. Designing Adaptive User Interfaces for Accessible Pointing. We will demo software designs that notify users of changes when using a pointing device and that adapt based on those changes. The National Institute on Disability and Rehabilitation Research (NIDRR) funds this research project.
 
-### 4:15 - 4:45 – Sharing!
+### 4:15 - 4:45 – Sharing! & Closing Remarks
 * Megan Smith, Chief Technology Officer of the United States, [@USCTO](https://twitter.com/USCTO)

@@ -4,7 +4,7 @@ permalink: /lunch/
 layout: default
 title: Lunch near 18F
 description: 'A list of lunch places near the 18F office at 1800 F ST NW, Washington, DC'
-page_title: 'Lunch Near 18F'
+page_title: Lunch near 18F
 ---
 
 * [Cafe Aria](https://www.google.com/maps/place/Cafe+Aria/@38.897836,-77.043951,17z/data=!3m1!4b1!4m2!3m1!1s0x89b7b7bab02758ab:0xa95e4e0c88e1e00d)

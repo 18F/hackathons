@@ -53,11 +53,11 @@ page_title: Schedule
 
 ### 1:00 - 4:15 – Hacking! & Breakout sessions
 
-#### Main room: Hacking session
+#### Main room: Hacking session (Room 1460)
 
 This is a general open space to address the problem statements from the morning session.
 
-#### Room A: Section 508 Refresh
+#### Room A: Section 508 Refresh (Room 1153)
 
 **1:00 to 3:00 pm - Access board webinar on Section 508 Refresh**
 
@@ -71,7 +71,7 @@ This is a general open space to address the problem statements from the morning 
 * Jim Tobias, Principal, Inclusive Technologies
 * Anne Taylor, National Federation of the Blind
 
-#### Room B: Learning and demos
+#### Room B: Learning and demos (Room 1147)
 
 **1:00 to 2:00 pm - Accessibility: Are UXperienced? by Angela Hooker, GSA**
 

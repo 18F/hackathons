@@ -12,7 +12,7 @@
     (function(){
       var pageTitle = $(document).find("title").text();
       pageTitle = pageTitle.substring(0,pageTitle.indexOf(' - '));
-      $('nav li a:contains('+pageTitle+')')
+      $('nav li a:contains('+pageTitle.toLowerCase()+')')
         .attr('title','Selected Page')
         .parent()
           .addClass('active');

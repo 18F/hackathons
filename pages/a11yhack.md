@@ -29,7 +29,7 @@ This Accessibility Hackathon will feature experts discussing this work, networki
 
 [#a11yhack](https://twitter.com/search?q=%23a11yhack&amp;src=typd) is the hashtag.
 
-[Food](/hackathons/food): Here are some nearby places.
+[Food](/hackathons/lunch): Here are some nearby places.
 
 
 ### Hackathon Projects:

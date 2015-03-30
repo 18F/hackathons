@@ -28,7 +28,7 @@ This Accessibility Hackathon will feature experts discussing this work, networki
 
 [Tools]({{site.baseurl}}/a11yhack/tools): Accessibility Tools.
 
-[Hackpad](https://hackpad.com/Accessibility-Hackathon-a11yhack-FSW5lFX53LP): Shared notes from today. (Tentative)
+[Hackpad](https://hackpad.com/Accessibility-Hackathon-a11yhack-FSW5lFX53LP): Shared notes from hackathon. (Tentative)
 
 [#a11yhack](https://twitter.com/search?q=%23a11yhack&amp;src=typd) is the hashtag.
 

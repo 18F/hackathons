@@ -1,0 +1,5 @@
+baseurl: /hackathons
+markdown: redcarpet
+
+sass:
+    sass_dir: styles/_sass

@@ -33,7 +33,9 @@ page_title: Schedule
 
 * Vint Cerf, Vice President and Chief Internet Evangelist, Google [Video]
 
-### 10:00 - 10:15 – How to make websites accessible by Nick Bristow, 18F
+### 10:00 - 10:15 – How to make websites accessible
+
+* Nick Bristow, Innovation Specialist at 18F
 
 ### 10:15 - 10:30 - (Break)
 

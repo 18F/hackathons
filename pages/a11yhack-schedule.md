@@ -4,6 +4,7 @@ permalink: /a11yhack/schedule/
 layout: default
 title: Schedule for Accessibility Hackaton #a11yhack
 description: 'The schedule for the Accessibility Hackaton #a11yhack @ 18f'
+page_title: Schedule
 ---
 
 ### 9:00 - 9:15 – Welcome

@@ -15,23 +15,23 @@ page_title: Schedule
 
 ### 9:10 - 10:00 – Lightning Talks
 
-* Sue Swenson, Acting Assistant Secretary for Special Education and Rehabilitative Services, US Department of Education, "Who Owns the Records of Americans with Disabilities" [VIDEO](http://youtu.be/it5dROtXtXQ)
+* Sue Swenson, Acting Assistant Secretary for Special Education and Rehabilitative Services, US Department of Education, "Who Owns the Records of Americans with Disabilities" | **[VIDEO](http://youtu.be/it5dROtXtXQ)**
 
 * Gregg Vanderheiden, Ph.D., Director Trace R&D Center, Professor Industrial & Systems Engineering and Biomedical Engineering University of Wisconsin-Madison, Co-Director, Raising the Floor International  and the Global Public Inclusive Infrastructure Project, "Using the cloud to allow everyone (not just programmers) to create solutions for people with disabilities" [Demo]
 
-* Erin Buhler, Ph.D. Student, Information Systems, UMBC and Aqueasha Martin, Postdoctoral Research Associate, Information Systems, UMBC, "Accessible Technology Research at UMBC"  [Demo]
+* Erin Buhler, Ph.D. Student, Information Systems, UMBC and Aqueasha Martin, Postdoctoral Research Associate, Information Systems, UMBC, "Accessible Technology Research at UMBC" [Demo]
 
 * Anne Taylor, Director of Access Technology National Federation of the Blind Jernigan Institute
 
-* Christian Vogler, Director, Technology Access Program, Gallaudet University, "Video Access for the Deaf-Blind" [Demo] | [VIDEO](https://www.youtube.com/watch?v=08tyYAhPuVU)
+* Christian Vogler, Director, Technology Access Program, Gallaudet University, "Video Access for the Deaf-Blind" [Demo] | **[VIDEO](https://www.youtube.com/watch?v=08tyYAhPuVU)**
 
-* Jamal Mazrui, Director, Accessibility and Innovation Initiative, Federal Communications Commission, "Hacking for Mobile Accessibility" [Talk]
+* Jamal Mazrui, Director, Accessibility and Innovation Initiative, Federal Communications Commission, "Hacking for Mobile Accessibility" | **[DEMO](http://104.131.59.41:8080/soundappclient/)**
 
 * Jinjuan Heidi Feng, Associate Professor, Computer and Information Sciences, Towson University, "SoundsRight audio CAPTCHA: Making Web authentication accessible to blind users" [Demo]
 
-* Steve Jacobs, President, IDEAL Group, Inc. and CEO, Apps4Android, Inc., "Using advanced knowledge discovery technology to enable individuals with print disabilities to access and acquire knowledge from websites, digital documents, research databases, blogs, and Wikis that were not necessarily developed with accessibility, usability, and/or readability in mind." [Demo]
+* Steve Jacobs, President, IDEAL Group, Inc. and CEO, Apps4Android, Inc., "Using advanced knowledge discovery technology to enable individuals with print disabilities to access and acquire knowledge from websites, digital documents, research databases, blogs, and Wikis that were not necessarily developed with accessibility, usability, and/or readability in mind." | **[DEMO](http://ideal-group.org/ld/)**
 
-* Vint Cerf, Vice President and Chief Internet Evangelist, Google [Video](http://youtu.be/vko6-DGznyA)
+* Vint Cerf, Vice President and Chief Internet Evangelist, Google | **[VIDEO](http://youtu.be/vko6-DGznyA)**
 
 ### 10:00 - 10:15 – How to make websites accessible
 

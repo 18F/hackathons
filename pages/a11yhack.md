@@ -33,7 +33,9 @@ Or, join us virtually!
 
 [Tools]({{site.baseurl}}/a11yhack/tools): Accessibility Tools.
 
-[Hackpad](https://hackpad.com/Accessibility-Hackathon-a11yhack-FSW5lFX53LP): Shared notes from hackathon.
+[Best Pracice and Common Testing Tools](http://buyaccessible.gov/content/best-practice-library): Accessibility Tools.
+
+[Hackpad](https://hackpad.com/Accessibility-Hackathon-a11yhack-FSW5lFX53LP): Shared notes from hackathon. (Tentative)
 
 [#a11yhack](https://twitter.com/search?q=%23a11yhack&amp;src=typd) is the hashtag.
 
@@ -42,7 +44,7 @@ Or, join us virtually!
 
 ### Hackathon Projects:
 
-Join or post your projects <a href="https://github.com/18F/hackathons/wiki/">here in the Accessibility Hackathon Hackpad</a>.
+Join or post your projects in the [Accessibility Hackathon Hackpad](https://hackpad.com/Accessibility-Hackathon-a11yhack-FSW5lFX53LP).
 
 ### What should I bring?
 

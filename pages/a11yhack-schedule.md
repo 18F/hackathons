@@ -119,3 +119,13 @@ Ph.D. Student, Information Systems, UMBC & **Aqueasha Martin**, Postdoctoral Res
 
 ### 4:15 - 4:45 – Sharing! & Closing Remarks
 * Megan Smith, Chief Technology Officer of the United States, [@USCTO](https://twitter.com/USCTO)
+
+#### Sharing
+* [Section 508 Procurement Playbook](https://18f.github.io/508-procurement-playbook/), a playbook to ensure contract awards contain strict requirements and incentive payments for achieving Section 508 compliance
+* [A11yImage](https://github.com/DavidGinzberg/A11yImage), A project to solve the issue of inaccessible images in social media with a focus on Twitter
+* Video CAPTCHA which counts number of fingers being held up.
+* Crowdsourcing accessibility sidewalk problems & how to use the data?
+* News For Betty Updates such as [this one](https://github.com/rtirserio/newsforbetty/commit/2f85ae5f814d23f98c24a81f44459ec4ae6c90bf), which adds high contrast style and toggle button.
+* Policy Hack: The community lacks good APIs to build good assistive tools.
+
+

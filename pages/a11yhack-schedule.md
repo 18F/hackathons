@@ -31,7 +31,7 @@ page_title: Schedule
 
 * Steve Jacobs, President, IDEAL Group, Inc. and CEO, Apps4Android, Inc., "Using advanced knowledge discovery technology to enable individuals with print disabilities to access and acquire knowledge from websites, digital documents, research databases, blogs, and Wikis that were not necessarily developed with accessibility, usability, and/or readability in mind." [Demo]
 
-* Vint Cerf, Vice President and Chief Internet Evangelist, Google [Video]
+* Vint Cerf, Vice President and Chief Internet Evangelist, Google [Video](http://youtu.be/vko6-DGznyA)
 
 ### 10:00 - 10:15 – How to make websites accessible
 

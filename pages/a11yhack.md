@@ -44,7 +44,7 @@ Or, join us virtually!
 
 ### Hackathon Projects:
 
-Join or post your projects <a href="https://github.com/18F/hackathons/wiki/">here in the Accessibility Hackathon Hackpad</a>.
+Join or post your projects in the <a href="https://hackpad.com/Accessibility-Hackathon-a11yhack-FSW5lFX53LP">Accessibility Hackathon Hackpad</a>.
 
 ### What should I bring?
 

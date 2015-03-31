@@ -14,11 +14,16 @@ Federal websites are, by law, designed to be accessible to everyone – individu
 
 This Accessibility Hackathon will feature experts discussing this work, networking opportunities, and the opportunity to make a real difference on these issues.
 
-### When and Where
+### When and where
 
 * Date: March 31, 2015
 * Time: 9:00 am - 5:00 pm
 * Location: GSA Conference Center, 1800 F St. NW, Washington, DC
+
+Or, join us virtually!
+
+* 9:00 am to 11:00 - [Live stream](https://meet.gsa.gov/a11yhack/): Lighnting Talks, Making Websites Accessible, and Problem Statements
+(Presented by [DigitalGov University](http://www.digitalgov.gov/digitalgov-university/))
 
 ### Key Links
 

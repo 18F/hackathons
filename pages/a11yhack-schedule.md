@@ -126,6 +126,6 @@ Ph.D. Student, Information Systems, UMBC & **Aqueasha Martin**, Postdoctoral Res
 * Video CAPTCHA which counts number of fingers being held up.
 * Crowdsourcing accessibility sidewalk problems & how to use the data?
 * News For Betty Updates such as [this one](https://github.com/rtirserio/newsforbetty/commit/2f85ae5f814d23f98c24a81f44459ec4ae6c90bf), which adds high contrast style and toggle button.
-* Policy Hack: The community lacks good APIs to build good assistive tools.
+* Policy Hack identified problem: The community lacks good APIs to build good assistive tools and offten these tools are recognized as malware. Proposed solution: There should be a meeting to pull together government, OS and tech platforms, and advocacy groups / user community to discuss further.
 
 

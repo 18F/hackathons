@@ -15,7 +15,7 @@ page_title: Schedule
 
 ### 9:10 - 10:00 – Lightning Talks
 
-* Sue Swenson, Acting Assistant Secretary for Special Education and Rehabilitative Services, US Department of Education, "Who Owns the Records of Americans with Disabilities" [VIDEO]
+* Sue Swenson, Acting Assistant Secretary for Special Education and Rehabilitative Services, US Department of Education, "Who Owns the Records of Americans with Disabilities" [VIDEO](http://youtu.be/it5dROtXtXQ)
 
 * Gregg Vanderheiden, Ph.D., Director Trace R&D Center, Professor Industrial & Systems Engineering and Biomedical Engineering University of Wisconsin-Madison, Co-Director, Raising the Floor International  and the Global Public Inclusive Infrastructure Project, "Using the cloud to allow everyone (not just programmers) to create solutions for people with disabilities" [Demo]
 

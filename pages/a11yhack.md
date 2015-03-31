@@ -32,6 +32,7 @@ Or, join us virtually!
 [Resources]({{site.baseurl}}/a11yhack/resources): Accessibility Resources.
 
 [Tools]({{site.baseurl}}/a11yhack/tools): Accessibility Tools.
+
 [Best Pracice and Common Testing Tools](http://buyaccessible.gov/content/best-practice-library): Accessibility Tools.
 
 [Hackpad](https://hackpad.com/Accessibility-Hackathon-a11yhack-FSW5lFX53LP): Shared notes from hackathon. (Tentative)

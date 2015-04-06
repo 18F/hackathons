@@ -15,6 +15,8 @@ page_title: Schedule
 
 ### 9:10 - 10:00 – Lightning Talks
 
+For slide content, download the [master deck of slides](../../presentations/a11yhack/2015-03-31-hackathon_master_deck.pdf).
+
 * Sue Swenson, Acting Assistant Secretary for Special Education and Rehabilitative Services, US Department of Education, "Who Owns the Records of Americans with Disabilities" | **[VIDEO](http://youtu.be/it5dROtXtXQ)**
 
 * Gregg Vanderheiden, Ph.D., Director Trace R&D Center, Professor Industrial & Systems Engineering and Biomedical Engineering University of Wisconsin-Madison, Co-Director, Raising the Floor International  and the Global Public Inclusive Infrastructure Project, "Using the cloud to allow everyone (not just programmers) to create solutions for people with disabilities" [Demo]
@@ -61,6 +63,9 @@ This is a general open space to address the problem statements from the morning 
 
 **1:00 to 3:00 pm - Access board webinar on Section 508 Refresh**
 
+Presention: [Section 508 Best
+Practices Webinar Series](../../presentations/a11yhack/2015-03-31-508_Refresh.pdf)
+
 * Bruce Bailey, Accessibility IT Specialist, U.S. Access Board
 * David Baquis, Accessibility Specialist, U.S. Access Board
 * Timothy Creagan, Senior Accessibility Specialist, U.S. Access Board
@@ -73,7 +78,7 @@ This is a general open space to address the problem statements from the morning 
 
 #### Room B: Learning and demos (Room 1147)
 
-**1:00 to 2:00 pm - Accessibility: Are UXperienced? by Angela Hooker, GSA**
+**1:00 to 2:00 pm - [Accessibility: Are UXperienced?](../../presentations/a11yhack/2015-03-31-angela_hooker-UX-perienced.pdf) by Angela Hooker, GSA**
 
 *2:10 to 4:10 pm - Demos*
 
@@ -124,7 +129,7 @@ Ph.D. Student, Information Systems, UMBC & **Aqueasha Martin**, Postdoctoral Res
 * [Section 508 Procurement Playbook](https://18f.github.io/508-procurement-playbook/), a playbook to ensure contract awards contain strict requirements and incentive payments for achieving Section 508 compliance
 * [A11yImage](https://github.com/DavidGinzberg/A11yImage), A project to solve the issue of inaccessible images in social media with a focus on Twitter
 * Video CAPTCHA which counts number of fingers being held up.
-* Crowdsourcing accessibility sidewalk problems & how to use the data?
+* [Crowdsourcing accessibility sidewalk problems & how to use the data?](../../presentations/a11yhack/2015-03-31-hara.pdf)
 * News For Betty Updates such as [this one](https://github.com/rtirserio/newsforbetty/commit/2f85ae5f814d23f98c24a81f44459ec4ae6c90bf), which adds high contrast style and toggle button.
 * Policy Hack identified problem: The accessibility community lacks good APIs to build good assistive tools and often these tools are recognized as malware. Proposed solution: There should be a meeting to pull together government, OS and tech platforms, and advocacy groups / user community to discuss further.
 

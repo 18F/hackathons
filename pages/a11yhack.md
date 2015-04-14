@@ -30,7 +30,7 @@ This Accessibility Hackathon featured experts discussing this work, networking o
 
 [Tools]({{site.baseurl}}/a11yhack/tools): Accessibility Tools.
 
-[Best Pracice and Common Testing Tools](http://buyaccessible.gov/content/best-practice-library): Accessibility Tools.
+[Best Practices and Common Testing Tools](http://buyaccessible.gov/content/best-practice-library): Accessibility Tools.
 
 
 
@@ -53,7 +53,7 @@ Bring your laptop, government-issued ID (to get in to the government building), 
 ### Follow us here:
 
 <i class="icon-twitter"></i> <a href="https://twitter.com/18f">Twitter @18F</a><br/><i class="icon-twitter"></i> <a href="https://twitter.com/DCLegalHackers">Twitter @DCLegalHackers</a><br/>
-<i class="icon-github2"></i> <a href="https://github.com/18f/hackathons/a11yhack">GitHub / 18F / hackathons / a11yhack</a><br/>
+<i class="icon-github2"></i> <a href="https://github.com/18F/hackathons/edit/gh-pages/pages/a11yhack.md">GitHub / 18F / hackathons / a11yhack</a><br/>
 <i class="icon-github2"></i> <a href="https://github.com/18f/accessibility">GitHub / 18F / accessibility</a>
 
 <script type="text/javascript">
